@@ -101,9 +101,6 @@ nav li a:hover{
     transition: all 200ms ease-in-out;
     transform: scale(1.5,1.5);
 }
-#what_a_man_gotta_do_record_image{
-    margin-left: 5px;
-}
 .records p{
     color: var(--link-hover-color);
     font-family: 'Courier New', Courier, monospace; 
