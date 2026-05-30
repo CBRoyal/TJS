@@ -118,6 +118,9 @@ table caption{
 table tr{
     font-size: 15px;
 }
+.jonas_store_record_links{
+    color: var(--headbar-background);
+}
 #jonas_store_main_footbar, #jonas_store_detail_footbar{
     background: var(--link-hover-color);
     color: var(--third-sheet-gradient-color);
