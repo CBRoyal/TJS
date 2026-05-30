@@ -107,9 +107,6 @@ nav li a:hover{
     font-family: 'Courier New', Courier, monospace; 
     font-size: 20px; 
 }
-#jonas_store_top_records_table{
-    padding-left: 5px;
-}
 table, th, td{
     border: 5px groove var(--sheet-border-color);
     font-family: 'Courier New', Courier, monospace;
