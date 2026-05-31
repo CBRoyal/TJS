@@ -124,7 +124,7 @@ table tr{
 #jonas_store_main_footbar{
     background: var(--link-hover-color);
     color: var(--third-sheet-gradient-color);
-    padding: 3px 0;
+    padding: 5px;
     display: flex;
     flex-direction: column;
 }
