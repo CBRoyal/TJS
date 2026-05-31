@@ -131,3 +131,8 @@ table tr{
     display: flex;
     flex-direction: column;
 }
+@media (max-width: 500px){
+    #jonas_store_main_webpage{
+        width: 100%;
+    }
+}
