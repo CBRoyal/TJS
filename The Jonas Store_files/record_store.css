@@ -28,10 +28,10 @@
     text-shadow: 2px 4px 2px var(--link-hover-color);
     padding-right: 10px;
 }
-a:link{
+.jonas_store_website_navigation_links:link{
     color: var(--link-color);
 }
-a:visited{
+.jonas_store_website_navigation_links:visited{
     color: var(--link-color);
 }
 #copyright_link, #storage_link, #jonas_brothers_email{
