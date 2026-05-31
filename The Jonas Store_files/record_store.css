@@ -138,7 +138,7 @@ nav li .jonas_store_website_navigation_links:hover{
     #jonas_store_description p{
         font-size: 25px;
     }
-    #jonas_store_top_records_table td{
-        padding: 5px;
+    #jonas_store_top_records_table{
+        margin-right: 5px;
     }
 }
