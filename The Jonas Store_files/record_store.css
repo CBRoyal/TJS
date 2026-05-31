@@ -135,4 +135,7 @@ table tr{
     #jonas_store_main_webpage{
         width: 600px;
     }
+    .jonas_store_description p{
+        font-size: 25px;
+    }
 }
