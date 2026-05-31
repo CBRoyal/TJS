@@ -121,6 +121,9 @@ table tr{
 .jonas_store_record_links:link{
     color: var(--headbar-background);
 }
+.jonas_store_record_links:hover{
+    color: var(--link-hover-color);
+}
 #jonas_store_main_footbar{
     background: var(--link-hover-color);
     color: var(--third-sheet-gradient-color);
