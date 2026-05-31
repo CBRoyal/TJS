@@ -138,4 +138,7 @@ table tr{
     #jonas_store_description p{
         font-size: 25px;
     }
+    table{
+        width: 90%;
+    }
 }
