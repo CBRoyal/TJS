@@ -47,11 +47,11 @@ nav ul{
 nav li{
     display: inline;
 }
-nav li a{
+nav li .jonas_store_website_navigation_links{
     text-decoration: none;
     padding: 5px 5px;
 }
-nav li a:hover{
+nav li .jonas_store_website_navigation_links:hover{
     color: var(--link-hover-color);
     background-color: var(--third-sheet-gradient-color);
     padding: 10px 10px;
