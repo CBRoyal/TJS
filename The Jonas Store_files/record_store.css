@@ -108,14 +108,14 @@ nav li .jonas_store_website_navigation_links:hover{
     font-family: 'Courier New', Courier, monospace; 
     font-size: 20px; 
 }
-table, th, td{
+#jonas_store_top_records_table, th, td{
     border: 5px groove var(--sheet-border-color);
     font-family: 'Courier New', Courier, monospace;
 }
-table caption{
+#jonas_store_top_records_table caption{
     font-size: 30px;
 }
-table tr{
+#jonas_store_top_records_table tr{
     font-size: 15px;
 }
 .jonas_store_record_links:link{
@@ -138,7 +138,7 @@ table tr{
     #jonas_store_description p{
         font-size: 25px;
     }
-    table{
+    #jonas_store_top_records_table{
         width: 85%;
     }
 }
