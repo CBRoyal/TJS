@@ -63,17 +63,17 @@ nav li .jonas_store_website_navigation_links:hover{
     padding-right: 5px;
     border: 10px groove var(--sheet-border-color);
 }
-.jonas_store_title h1{
+#jonas_store_title h1{
     color: var(--second-webpage-gradient-color);
     font-family:'Courier New', Courier, monospace;
     font-size: 50px;
 }
-.jonas_store_title p{
+#jonas_store_title p{
     color: var(--link-hover-color);
     font-family:'Courier New', Courier, monospace;
     font-size: 25px;
 }
-.jonas_store_description p{
+#jonas_store_description p{
     font-family:'Courier New', Courier, monospace;
     font-size: 15px;
 }
@@ -135,7 +135,7 @@ table tr{
     #jonas_store_main_webpage{
         width: 600px;
     }
-    .jonas_store_description p{
+    #jonas_store_description p{
         font-size: 25px;
     }
 }
